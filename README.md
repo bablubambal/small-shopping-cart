@@ -3,7 +3,7 @@ Create a Git Repo and React Project and Follow the steps :
 Copy the link of the remote origin from your accoung
 
 # small-shopping-cart visit my live app
-Open [SmallShoppingCart](https://github.com/bablubambal/small-shopping-cart) to view it in your browser.
+Open [SmallShoppingCart](https://bablubambal.github.io/small-shopping-cart) to view it in your browser.
 
 
 
