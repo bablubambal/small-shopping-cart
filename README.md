@@ -31,4 +31,5 @@ in Package.json add the following scrips in json file
   "deploy":"gh-pages -d build",
 
 `
-
+### Step 5
+Now Run `npm run deploy`
